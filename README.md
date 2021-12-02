@@ -35,3 +35,9 @@ Working with MongoDB:
     5. check the available databases using - show dbs 
     6. You can connect with the compass and go to the database section and click on create database. For example, enter Sales for database name and employee for collection names and click on create. 
     7. You can run the command "show dbs" again to confirm if the database created got reflected in the cmd.
+
+Building backend: 
+    1. created backend folder
+    2. created requirements.txt including fastapi, uvicorn and motor
+    3. setup the virtual env using `PIPENV_VENV_IN_PROJECT=true pipenv shell`
+    4. ran `pipenv install -r requirements.txt`
