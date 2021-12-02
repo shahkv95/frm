@@ -27,7 +27,7 @@ Installations:
     1. mongod --version
     2. mongosh 
 
-Working with MongoDB
+Working with MongoDB:
     1. Go to the clusters section in mongodb - for me - https://cloud.mongodb.com/v2/61a8b01fab0c515f218cabcf#clusters
     2. Click on Connect and connect either with compass or shell 
     3. Accordingly follow the steps popped up. 
